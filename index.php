@@ -1,15 +1,18 @@
-
+<?php
+$Title= "Biography";
+$header= "Who I Am";
+?> 
 
 
 <!DOCTYPE html>
 
 <html>
 <head>
- <title><?php echo $Title?></title>
+ <title><?php echo $Title; ?></title>
 </head>
 
 <body>
-    <h1><?php echo $header?></h1>
+    <h1><?php echo $header; ?></h1>
 <p>My name is John Lloyd Escobar. I'm 22 years old. My house is in Barangay Pahanocoy Bacolod City,
      where all the villas are, and I am not married. I study at University of Saint La Salle,
      and I get home every day by 8 PM at the latest. I don't smoke, but I occasionally drink. I'm in bed by 12AM,
