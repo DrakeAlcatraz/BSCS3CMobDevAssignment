@@ -7,27 +7,27 @@ $header= "Who I Am";
 <!DOCTYPE html>
 
 <html>
-<head>
- <title><?php echo $Title; ?></title>
-</head>
-
-<body>
-    <h1><?php echo $header; ?></h1>
-<p>My name is John Lloyd Escobar. I'm 22 years old. My house is in Barangay Pahanocoy Bacolod City,
-     where all the villas are, and I am not married. I study at University of Saint La Salle,
-     and I get home every day by 8 PM at the latest. I don't smoke, but I occasionally drink. I'm in bed by 12AM,
-     and make sure I get eight hours of sleep, sometimes. After playing games for a few hours I lay and read manga before going to sleep.,
-     I usually have no problems sleeping until morning. Just like any normal adult, I wake up with fatigue and stress in the morning.
-     I was told there were no issues at my last check-up. I'm trying to explain that I'm a person who wishes to live a very quiet life. 
-     I take care not to trouble myself with any enemies, like winning and losing, that would cause me to lose sleep at night. 
-     That is how I deal with society, and I know that is what brings me happiness. Although, if I were to fight I wouldn't lose to anyone(maybe).</p>
-
-     <img src="kira.jpg" alt="kira">
-     <br>
-     <a href="http://127.0.0.1/MobDev/index3.php">What I beleive in</a>
-     <br>
-     <a href="http://127.0.0.1/MobDev/index2.php">What I like to do</a>
+     <head>
+            <title><?php echo $Title; ?></title>
+     </head>
      
-</body>
-
+     <body>
+         <h1><?php echo $header; ?></h1>
+     <p>My name is John Lloyd Escobar. I'm 22 years old. My house is in Barangay Pahanocoy Bacolod City,
+          where all the villas are, and I am not married. I study at University of Saint La Salle,
+          and I get home every day by 8 PM at the latest. I don't smoke, but I occasionally drink. I'm in bed by 12AM,
+          and make sure I get eight hours of sleep, sometimes. After playing games for a few hours I lay and read manga before going to sleep.,
+          I usually have no problems sleeping until morning. Just like any normal adult, I wake up with fatigue and stress in the morning.
+          I was told there were no issues at my last check-up. I'm trying to explain that I'm a person who wishes to live a very quiet life. 
+          I take care not to trouble myself with any enemies, like winning and losing, that would cause me to lose sleep at night. 
+          That is how I deal with society, and I know that is what brings me happiness. Although, if I were to fight I wouldn't lose to anyone(maybe).</p>
+     
+          <img src="kira.jpg" alt="kira">
+          <br>
+          <a href="http://127.0.0.1/MobDev/index3.php">What I beleive in</a>
+          <br>
+          <a href="http://127.0.0.1/MobDev/index2.php">What I like to do</a>
+          
+     </body>
+     
 </html>
