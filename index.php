@@ -21,6 +21,8 @@ $header= "Who I Am";
      I was told there were no issues at my last check-up. I'm trying to explain that I'm a person who wishes to live a very quiet life. 
      I take care not to trouble myself with any enemies, like winning and losing, that would cause me to lose sleep at night. 
      That is how I deal with society, and I know that is what brings me happiness. Although, if I were to fight I wouldn't lose to anyone(maybe).</p>
+
+     <img src="kira.jpg" alt="kira">
 </body>
 
 </html>
