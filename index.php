@@ -23,6 +23,11 @@ $header= "Who I Am";
      That is how I deal with society, and I know that is what brings me happiness. Although, if I were to fight I wouldn't lose to anyone(maybe).</p>
 
      <img src="kira.jpg" alt="kira">
+     <br>
+     <a href="http://127.0.0.1/MobDev/index3.php">What I beleive in</a>
+     <br>
+     <a href="http://127.0.0.1/MobDev/index2.php">What I like to do</a>
+     
 </body>
 
 </html>
